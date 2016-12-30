@@ -1,0 +1,11 @@
+{
+  "name": "miprimerproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Ericksav",
+  "license": "ISC"
+}
